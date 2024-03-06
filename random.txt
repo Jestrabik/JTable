@@ -1,0 +1,4 @@
+Test
+T E S T
+t e s t
+TESTSET
